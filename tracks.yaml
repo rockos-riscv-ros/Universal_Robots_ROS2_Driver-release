@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:rockos-riscv-ros/Universal_Robots_ROS2_Driver-release.git
 tracks:
   foxy:
     actions:
